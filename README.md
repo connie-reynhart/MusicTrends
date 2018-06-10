@@ -1,1 +1,4 @@
 # MusicTrends
+
+Dummy Application
+
