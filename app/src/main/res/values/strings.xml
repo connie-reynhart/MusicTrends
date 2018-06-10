@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Music Trends</string>
+    <string name="story_one_content">Now this is some long
+    text, with line breaks\n\n and even more line breaks here\n\n\n
+    The end</string>
+</resources>
